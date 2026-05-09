@@ -61,5 +61,3 @@ py .\main.py
 ## License
 
 Licensed under the Mozilla Public License 2.0. See [LICENSE](https://github.com/riffpointer/rp-media-optimizer-toolkit/blob/master/LICENSE).
-
-Made by [RiffPointer](https://github.com/riffpointer) (with a bit of help from [OpenAI Codex](https://github.com/openai/codex/) and [Google Gemini CLI](https://geminicli.com/)).
